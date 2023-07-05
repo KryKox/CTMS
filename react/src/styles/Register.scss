@@ -1,0 +1,8 @@
+.register-body {
+    background-color: rgba(128, 128, 128, 0.1);
+    transition: 0.9s ease-in-out;
+
+    &:hover {
+        background-color: gray;
+    }
+}
